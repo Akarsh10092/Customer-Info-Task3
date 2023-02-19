@@ -15,8 +15,7 @@
 -> Setup mongo db server  
 
 ->Used postman for get requests
-
-
+<img src="https://github.com/Akarsh10092/Customer-Info-Task3/blob/main/screenshots/custom%20data.png?raw=true" alt="akarsh10092" />
 
 </p>
 
